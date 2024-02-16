@@ -1,3 +1,4 @@
+# 수정 : 김정욱, 2024.02.16
 contourpy==1.2.0
 cycler==0.12.1
 fonttools==4.49.0
