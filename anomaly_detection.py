@@ -22,3 +22,6 @@ plt.plot(time_series, label='Time Series')
 plt.scatter(anomalies, time_series[anomalies], color='r', label='Anomalies')
 plt.legend()
 plt.show()
+
+# 새로운 기능 추가 필요
+#
